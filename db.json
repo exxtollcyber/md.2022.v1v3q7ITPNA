@@ -1,7 +1,7 @@
 {
-  "Students":[
-    {"StudentID:V1V3Q7", "name":"Praise","Course":"IT"},
-    {"StudentID:K3K0F9", "name":"Trevor","Course":"Coumputer Science"}
+  "Students": [
+    {"StudentID:V1V3Q7",  "name": "Praise", "Course": "IT"},
+    {"StudentID:K3K0F9", "name": "Trevor", "Course": "Coumputer Science"}
   ]
 }
     
